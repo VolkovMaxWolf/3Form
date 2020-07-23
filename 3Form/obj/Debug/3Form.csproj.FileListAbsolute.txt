@@ -1,0 +1,10 @@
+D:\Wolf\3Form\3Form\bin\Debug\3Form.exe.config
+D:\Wolf\3Form\3Form\bin\Debug\3Form.exe
+D:\Wolf\3Form\3Form\bin\Debug\3Form.pdb
+D:\Wolf\3Form\3Form\obj\Debug\3Form.csprojAssemblyReference.cache
+D:\Wolf\3Form\3Form\obj\Debug\_3Form.Form1.resources
+D:\Wolf\3Form\3Form\obj\Debug\_3Form.Properties.Resources.resources
+D:\Wolf\3Form\3Form\obj\Debug\3Form.csproj.GenerateResource.cache
+D:\Wolf\3Form\3Form\obj\Debug\3Form.csproj.CoreCompileInputs.cache
+D:\Wolf\3Form\3Form\obj\Debug\3Form.exe
+D:\Wolf\3Form\3Form\obj\Debug\3Form.pdb
